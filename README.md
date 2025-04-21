@@ -31,5 +31,4 @@ End-to-end SQL data warehouse with star schemas, analytics layers, and view-base
 ---
 
 ### 🧠 [Anomaly Detection with KNN (PyOD)](https://github.com/Amar825/Clustering-Anomaly-Detection-Projects)
-Detecting anomalies in smartwatch heart rate time-series data using **KNN**, **PyOD**, and **Matplotlib**.
--
+Detecting anomalies in smartwatch heart rate time-series data using **KNN**, **PyOD**, and **Matplotlib**
