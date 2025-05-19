@@ -6,7 +6,7 @@
 
 ## 🔧 About Me
 
-- 🧪 Master's in Cell & Molecular Biology — turned Data technology enthusiast
+- 🧪 Master's in Cell & Molecular Biology from Norwegian University of Science and Technology.
 - 🔭 Currently learning how things work in the cloud, some maths behind deep learning, and cool data viz things.
 - 🧑‍💻 Open to internships and junior roles in bioinformatician/cloud data engineering/data analytics/data scientist
 
